@@ -2,7 +2,7 @@
 
 This repository brings together a collection of **Natural Language Processing (NLP)** projects developed during a Master's degree in Language Technologies.
 
-The portfolio reflects a progression from **rule-based linguistic systems** to **statistical and semantic models**, culminating in applied machine learning in speech processing. Across projects, the focus is on:
+The portfolio reflects a progression from **rule-based linguistic systems** to **statistical and semantic models**, culminating in applied machine learning in speech processing.
 
 ---
 
